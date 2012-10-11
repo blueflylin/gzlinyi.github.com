@@ -1,2 +1,2 @@
-gzlinyi.github.com
-==================
+octopress
+=========
